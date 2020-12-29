@@ -29,7 +29,7 @@ matplotlib.rcParams['mathtext.fontset']='stix'
 # load the full data set
 dataset = np.loadtxt('corr_beam.csv', delimiter=",")
 
-# define Input variables X and output variable y
+# dfine Input variables X and output variable y
 # 13 variables as followed: f_c;b;h;rho_l;rho_v;f_y;f_yv;s;lambda;eta_l;eta_w;h0;A_v	
 
 fc = dataset[:, 0]
