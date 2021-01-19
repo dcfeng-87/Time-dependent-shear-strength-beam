@@ -3,5 +3,5 @@ In the service life, RC beams may be subjected to some aggressive environment su
 
 Reference:
 
-Fu, Bo, and Feng, De-Cheng*. "A machine learning-based time-dependent shear strength model for corroded reinforced concrete beams". Journal of Building Engineering, 2020, 102118.
+Fu, Bo, and Feng, De-Cheng*. "A machine learning-based time-dependent shear strength model for corroded reinforced concrete beams". Journal of Building Engineering, 2020, Volume 36, April 2021, 102118.
 (https://doi.org/10.1016/j.jobe.2020.102118)
